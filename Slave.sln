@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29920.165
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slave", "Slave\Slave.csproj", "{A4893706-0AAE-4305-899B-EF854FAFA7DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerStarter", "..\ServerStarter\ServerStarter\ServerStarter.csproj", "{74EFB999-3462-4F4C-9BD4-DBC93A0280AF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerStarter", "ServerStarter\ServerStarter.csproj", "{74EFB999-3462-4F4C-9BD4-DBC93A0280AF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
